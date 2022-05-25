@@ -1,0 +1,21 @@
+html{ 
+    background-color: #ccc;
+}
+
+body{
+    background-color: blueviolet;
+    width: 50%;
+    font-size: 1em;
+}
+
+.pai{
+    background-color: #ea80fc;
+    width: 50%;
+    font-size: 1.5em;
+}
+
+.filha{
+    background-color: #1de9b6;
+    width: 50%;
+    font-size: 3em;
+}
